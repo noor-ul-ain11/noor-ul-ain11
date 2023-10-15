@@ -1,3 +1,4 @@
+[![Cover Photo](https://github.com/noor-ul-ain11/noor-ul-ain11/raw/main/githubCoverPhoto.png)](https://github.com/noor-ul-ain11/noor-ul-ain11)
 <h1 align="center">Hi 👋, I'm Noor-ul-ain</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan</h3>
 <img align = "right" alt = "Animation" width = 400px src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
