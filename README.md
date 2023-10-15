@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noor-ul-ain</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan</h3>
+<img align = "right" alt = "Animation" width = 400px src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ul-ain11&label=Profile%20views&color=0e75b6&style=flat" alt="noor-ul-ain11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noor-ul-ain11" alt="noor-ul-ain11" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -27,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noor-ul-ain11&show_icons=true&locale=en&layout=compact" alt="noor-ul-ain11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noor-ul-ain11&show_icons=true&locale=en" alt="noor-ul-ain11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noor-ul-ain11&" alt="noor-ul-ain11" /></p>
