@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ul-ain11&label=Profile%20views&color=0e75b6&style=flat" alt="noor-ul-ain11" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m a senior WordPress developer with 3+ years of experience
 
 - 👨‍💻 All of my projects are available at [www.noorabid.com](www.noorabid.com)
 
-- 💬 Ask me about **Html , CSS ,Bootstrap, Tailwind, Javascript , Php , MySql , Laravel, C++ , WordPress**
+- 💬 Ask me about **Html , CSS ,Bootstrap, Tailwind, Javascript , Php , MySql , Laravel, WordPress, Jquery**
 
 - 📫 How to reach me **noorabid825@gmail.com**
 
